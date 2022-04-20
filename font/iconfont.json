@@ -1,0 +1,58 @@
+{
+  "id": "3342775",
+  "name": "小米商城",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "963833",
+      "name": "维修",
+      "font_class": "weixiu",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1440640",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "1546572",
+      "name": "回顶部",
+      "font_class": "huidingbu",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "2733969",
+      "name": "人工任务",
+      "font_class": "rengongrenwu",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "4437608",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "5387553",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "eafe",
+      "unicode_decimal": 60158
+    },
+    {
+      "icon_id": "18267933",
+      "name": "卖家购物车",
+      "font_class": "maijiagouwuche",
+      "unicode": "e992",
+      "unicode_decimal": 59794
+    }
+  ]
+}
